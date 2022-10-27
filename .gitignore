@@ -1,2 +1,5 @@
 .idea/
 venv/
+.Rproj.user/
+.Rhistory
+reco_rappeur_fr.Rproj
